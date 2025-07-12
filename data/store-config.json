@@ -17,12 +17,12 @@
   "products": [
     {
       "id": "1",
-      "name": "COSMIC - STEAL A FISH",
-      "type": "item",
-      "price": 25000,
-      "originalPrice": 30000,
-      "image": "/placeholder.svg?height=200&width=300",
-      "description": "Voucher game premium dengan bonus eksklusif"
+      "name": Starlight Card",
+      "type": "Mobile Legends",
+      "price": 35000,
+      "originalPrice": 40000,
+      "image": "/img/download.jpeg?height=200&width=300",
+      "description": " Via Gift, harus berteman 7 hari"
     },
     {
       "id": "2",
