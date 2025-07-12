@@ -8,9 +8,8 @@
   "voucherInfo": {
     "title": "📋 Informasi Produk",
     "details": [
-      "Voucher berlaku 7 hari setelah pembelian",
-      "Garansi 24 jam setelah pembelian",
-      "Produk dikirim ke alamat pembeli",
+      "Stock Roblox seadanya",
+      "Starlight berteman 7 hari",
       "Harga sudah termasuk pajak"
     ]
   },
@@ -21,7 +20,7 @@
       "type": "Mobile Legends",
       "price": 35000,
       "originalPrice": 40000,
-      "image": "/download.jpeg",
+      "image": "/sl.jpeg",
       "description": " Via Gift, harus berteman 7 hari"
     },
     {
