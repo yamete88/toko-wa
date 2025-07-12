@@ -1,8 +1,8 @@
 {
   "storeInfo": {
-    "name": "TOKO SERBAGUNA",
+    "name": "TOKO KAORI CICAK",
     "tagline": "Produk & Voucher Terbaik!",
-    "whatsappNumber": "6285338939606",
+    "whatsappNumber": "6289660378730",
     "minPurchase": 2
   },
   "voucherInfo": {
@@ -17,8 +17,8 @@
   "products": [
     {
       "id": "1",
-      "name": "Voucher Gaming Premium",
-      "type": "voucher",
+      "name": "COSMIC - STEAL A FISH",
+      "type": "item",
       "price": 25000,
       "originalPrice": 30000,
       "image": "/placeholder.svg?height=200&width=300",
@@ -73,7 +73,7 @@
     "phone": "📱 No. WhatsApp:",
     "namePlaceholder": "Masukkan nama lengkap",
     "emailPlaceholder": "contoh@email.com",
-    "phonePlaceholder": "08123456789"
+    "phonePlaceholder": "089660378730"
   },
   "messages": {
     "minPurchaseWarning": "⚠️ Minimal pembelian {min} item",
