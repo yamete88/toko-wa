@@ -1,79 +1,38 @@
 {
   "storeInfo": {
     "name": "TOKO KAORI CICAK",
-    "tagline": "Produk & Voucher Terbaik!",
+    "tagline": "Menjual Surat"
     "whatsappNumber": "6289660378730",
     "minPurchase": 1
   },
   "voucherInfo": {
     "title": "📋 Informasi Produk",
     "details": [
-      "Stock Roblox seadanya",
-      "Starlight berteman 7 hari",
-      "Harga sudah termasuk pajak"
+      "Hanya menjual surat",
+      "Garansi setelah membaca suratnya"
+      
     ]
   },
   "products": [
     {
       "id": "1",
-      "name": "Starlight Card",
-      "type": "Mobile Legends",
+      "name": "Surat Untuk Arima",
+      "type": "Kaori",
       "price": 35000,
       "originalPrice": 40000,
       "image": "/sl.jpeg",
-      "description": " Via Gift, harus berteman 7 hari"
+      "description": "Surat yang ditulis oleh Kaori untuk Arima sebelum ke Isekai"
     },
     {
       "id": "2",
-      "name": "Mystic - Steal a Fish",
-      "type": "Roblox",
-      "price": 3000,
-      "originalPrice": 4000,
+      "name": "Surat Untuk Teman-teman",
+      "type": "Menma",
+      "price": 100000,
+      "originalPrice": 130000,
       "image": "/placeholder.svg?height=200&width=300",
-      "description": "Paket makanan lengkap dengan minuman"
+      "description": "Surat undangan bermain petak umpet"
     },
-    {
-      "id": "3",
-      "name": "Kaos Premium",
-      "type": "physical",
-      "price": 85000,
-      "image": "/placeholder.svg?height=200&width=300",
-      "description": "Kaos berkualitas tinggi, nyaman dipakai"
-    },
-    {
-      "id": "4",
-      "name": "Voucher Belanja",
-      "type": "voucher",
-      "price": 50000,
-      "image": "/placeholder.svg?height=200&width=300",
-      "description": "Voucher belanja untuk berbagai kebutuhan"
-    },
-    {
-      "id": "5",
-      "name": "Sepatu Sneakers",
-      "type": "physical",
-      "price": 150000,
-      "originalPrice": 180000,
-      "image": "/placeholder.svg?height=200&width=300",
-      "description": "Sepatu sneakers trendy dan nyaman"
-    },
-    {
-      "id": "6",
-      "name": "Voucher Transportasi",
-      "type": "voucher",
-      "price": 35000,
-      "image": "/placeholder.svg?height=200&width=300",
-      "description": "Voucher untuk transportasi online"
-    }
-  ],
-  "formLabels": {
-    "name": "👤 Nama Pemesan:",
-    "email": "📧 Email:",
-    "phone": "📱 No. WhatsApp:",
-    "namePlaceholder": "Masukkan nama lengkap",
-    "emailPlaceholder": "contoh@email.com",
-    "phonePlaceholder": "083475386383"
-  },
+    
   "messages": {
     "minPurchaseWarning": "⚠️ Minimal pembelian {min} item",
     "checkoutButton": "KIRIM PESANAN KE WHATSAPP",
