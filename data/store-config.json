@@ -20,7 +20,7 @@
       "name": "Surat Untuk Arima",
       "type": "Kaori"
       "price": 75000,
-      "originalPrice": 90000, // optional untuk diskon
+      "originalPrice": 90000,
       "image": "/IMG_20250713_121508.jpg",
       "description": "Surat yang ditulis oleh Kaori untuk Arima sebelum ke Isekai"
     }
