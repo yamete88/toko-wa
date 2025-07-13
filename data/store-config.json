@@ -1,21 +1,20 @@
 {
   "storeInfo": {
-    "name": "TOKO KAORI CICAK",
-    "tagline": "Menjual Surat"
-    "whatsappNumber": "6289660378730",
-    "minPurchase": 1
+    "name": "TOKO SERBAGUNA",
+    "tagline": "Produk & Voucher Terbaik!",
+    "whatsappNumber": "6285338939606",
+    "minPurchase": 2
   },
   "voucherInfo": {
     "title": "📋 Informasi Produk",
     "details": [
-      "Hanya menjual surat",
-      "Garansi setelah membaca suratnya"
-      
+      "Voucher berlaku 7 hari setelah pembelian",
+      "Garansi 24 jam setelah pembelian",
+      "Produk dikirim ke alamat pembeli",
+      "Harga sudah termasuk pajak"
     ]
   },
-
-
-"products": [
+  "products": [
     {
       "id": "1",
       "name": "Voucher Gaming Premium",
