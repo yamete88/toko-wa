@@ -13,25 +13,21 @@
       
     ]
   },
+{
   "products": [
     {
       "id": "1",
       "name": "Surat Untuk Arima",
-      "type": "Kaori",
-      "price": 35000,
-      "originalPrice": 40000,
+      "type": "Kaori"
+      "price": 75000,
+      "originalPrice": 90000, // optional untuk diskon
       "image": "/IMG_20250713_121508.jpg",
       "description": "Surat yang ditulis oleh Kaori untuk Arima sebelum ke Isekai"
-    },
-    {
-      "id": "2",
-      "name": "Surat Untuk Teman-teman",
-      "type": "Menma",
-      "price": 100000,
-      "originalPrice": 130000,
-      "image": "/IMG_20250713_121443.png",
-      "description": "Surat undangan bermain petak umpet"
-    }]
+    }
+  ]
+}
+  
+  
     
   "messages": {
     "minPurchaseWarning": "⚠️ Minimal pembelian {min} item",
