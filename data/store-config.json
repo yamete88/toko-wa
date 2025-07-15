@@ -1,45 +1,45 @@
 {
   "storeInfo": {
-    "name": "TOKO SURAT",
-    "tagline": "Menjual Surat Terbaik!",
+    "name": "KAORI BLESSING",
+    "tagline": "Menjual item game via gift dan trade",
     "whatsappNumber": "6289660378730",
     "minPurchase": 1
   },
   "voucherInfo": {
     "title": "📋 Informasi Produk",
     "details": [
-      "Surat berlaku 7 hari setelah pembelian",
+      "Stok item Roblox seadanya",
       "Garansi 24 jam setelah pembelian",
-      "Produk dikirim ke alamat pembeli",
+      "Untuk Starlight, jika ganti nama wajib lapor",
       "Harga sudah termasuk pajak"
     ]
   },
   "products": [
     {
       "id": "1",
-      "name": "Surat Untuk Arima",
-      "type": "Kaori",
-      "price": 25000,
-      "originalPrice": 30000,
-      "image": "IMG_20250713_121508.jpg",
-      "description": "Surat yang ditulis Kaori sebelum meninggal"
+      "name": "Starlight Card",
+      "type": "Mobile Legends",
+      "price": 35000,
+      "originalPrice": 40000,
+      "image": "sl.jpg",
+      "description": "Delay 7 hari, harap sabar"
     },
     {
       "id": "2",
-      "name": "Surat Untuk Semua",
-      "type": "voucher",
-      "price": 45000,
-      "originalPrice": 55000,
+      "name": "Mystic - Steal a Fish",
+      "type": "Roblox",
+      "price": 3000,
+      "originalPrice": 4000,
       "image": "/IMG_20250713_121443.png",
-      "description": "Surat undangan bermain petak unpet"
+      "description": "Stock seadanya, Beli 3 gratis 1"
     }
   ],
   "formLabels": {
-    "name": "👤 Nama Pemesan:",
-    "email": "📧 Email:",
+    "name": "Username Akun:",
+    "email": "Catatan:",
     "phone": "📱 No. WhatsApp:",
-    "namePlaceholder": "Masukkan nama lengkap",
-    "emailPlaceholder": "contoh@email.com",
+    "namePlaceholder": "Masukkan Username game kamu",
+    "emailPlaceholder": "Catatan untuk penjual, jika tidak ada kosongkan",
     "phonePlaceholder": "08123456789"
   },
   "messages": {
