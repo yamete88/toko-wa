@@ -35,11 +35,11 @@
     }
   ],
   "formLabels": {
-    "name": "Username Akun:",
-    "email": "Catatan:",
+    "name": "Nama:",
+    "email": "ID/Username:",
     "phone": "📱 No. WhatsApp:",
-    "namePlaceholder": "Masukkan Username game kamu",
-    "emailPlaceholder": "Catatan untuk penjual, jika tidak ada kosongkan",
+    "namePlaceholder": "Masukkan Nama",
+    "emailPlaceholder": "ID/username",
     "phonePlaceholder": "08123456789"
   },
   "messages": {
