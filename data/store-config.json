@@ -36,7 +36,7 @@
   ],
   "formLabels": {
     "name": "Nama:",
-    "id": "ID/Username:",
+    "email": "ID/Username:",
     "phone": "📱 No. WhatsApp:",
     "namePlaceholder": "Masukkan Nama",
     "emailPlaceholder": "ID/username",
