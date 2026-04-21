@@ -45,6 +45,6 @@
   "messages": {
     "minPurchaseWarning": "⚠️ Minimal pembelian {min} item",
     "checkoutButton": "KIRIM PESANAN KE WHATSAPP",
-    "orderMessage": "*PESANAN BARU*\n\n{orderDetails}\n\n*Total: {total}*\n\nNama: {name}\nEmail: {email}\nNo. HP: {phone}\n\nTerima kasih!"
+    "orderMessage": "*PESANAN BARU*\n\n{orderDetails}\n\n*Total: {total}*\n\nNama: {name}\nID/Username: {email}\nNo. HP: {phone}\n\nTerima kasih!"
   }
 }
